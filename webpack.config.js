@@ -14,9 +14,6 @@ module.exports = {
       arrowFunction: false
     }
   },
-  devServer: {
-
-  },
   module: {
     rules: [
       {
