@@ -1,4 +1,12 @@
-# TS版本贪吃蛇
+<h1 align='center'>TS版本贪吃蛇</h1>
+
+<div align='center'>
+	<img src='https://img.shields.io/badge/webpack-5.65.0-blue' />
+	<img src='https://img.shields.io/badge/typescript-4.5.4-blue' />
+	<img src='https://img.shields.io/badge/autor-yuweiqi666-blue' />
+</div>
+
+
 
 ## 技术栈
 
@@ -16,7 +24,7 @@ typescript + webpack + es6 + scss
 
 ### 项目介绍
 
-这是一个适合typescript新手入门的一个ts版本的贪吃蛇项目 , 本项目按照面向对象的开发思想。 项目一共涉及四个类： Food类  Score类  Snake类  GameControl类， 因为项目的整体逻辑比较简单， 所以本项目并不涉及接口、泛型等高级特性（考虑后期会进行项目的升级）  
+**这是一个适合typescript新手入门的一个ts版本的贪吃蛇项目 , 本项目按照面向对象的开发思想。 项目一共涉及四个类： Food类  Score类  Snake类  GameControl类， 因为项目的整体逻辑比较简单， 所以本项目并不涉及接口、泛型等高级特性（考虑后期会进行项目的升级）**
 
 
 
@@ -77,10 +85,3 @@ npm run build  项目打包
 - [ ] 开始游戏/重新开始 弹窗按钮
 - [ ] 支持游戏暂停
 - [ ] 支持游戏模式选择
-
-
-
-
-
-
-
